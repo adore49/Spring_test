@@ -8,4 +8,12 @@
         <property name="name" value="李四"/>
     </bean>
 
+       
+        <bean id="userService" class="com.imooc.ioc.demo1.UserServiceImpl">
+        <property name="name" value="李四"/>
+    </bean> <bean id="userService" class="com.imooc.ioc.demo1.UserServiceImpl">
+        <property name="name" value="李四"/>
+    </bean> <bean id="userService" class="com.imooc.ioc.demo1.UserServiceImpl">
+        <property name="name" value="李四"/>
+    </bean>
 </beans>
